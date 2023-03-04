@@ -1,2 +1,3 @@
-# inobscura.com
-inobscura.com website
+# inobscura.io
+
+Code for the inobscura.io website
